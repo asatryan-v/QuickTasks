@@ -29,7 +29,7 @@ You can either clone a repository or start fresh:
 ### Option 1: Clone Existing Repository
 
 ```bash
-git clone https://github.com/yourusername/QuickTasks.git
+git clone https://github.com/asatryan-v/QuickTasks.git
 cd QuickTasks
 ```
 
